@@ -6,7 +6,7 @@ An example of a RED4ext plugin using Premake.
 
 ### Steps
 
-1. Download and install [Visual Studio 2019 Community Edition](https://www.visualstudio.com/) or a higher version.
+1. Download and install [Visual Studio 2022 Community Edition](https://www.visualstudio.com/) or a higher version.
 2. Clone this repository.
 3. Clone the dependencies (`git submodule update --init --recursive`).
 4. Extract the content of [Premake 5](https://github.com/premake/premake-core/releases) in the project directory.

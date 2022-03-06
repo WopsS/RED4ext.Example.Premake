@@ -1,4 +1,4 @@
-require("premake", ">=5.0.0-alpha16")
+require("premake", ">=5.0.0-beta1")
 
 -- Change the workspace name here!
 workspace("RED4ext.Example.Premake")
