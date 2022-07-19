@@ -362,6 +362,6 @@ MigrationBackup/
 FodyWeavers.xsd
 
 ### Custom ###
-build
-project
+build/
+project/
 premake5.exe
